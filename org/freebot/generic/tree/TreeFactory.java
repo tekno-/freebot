@@ -1,6 +1,5 @@
 package org.freebot.generic.tree;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public final class TreeFactory {

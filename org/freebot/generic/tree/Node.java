@@ -22,5 +22,13 @@ public class Node<T> {
         return t;
     }
 
+    public Node<T> getParent() {
+        return parent;
+    }
+
+    public List<Node<T>> getChildren() {
+        return children;
+    }
+
 
 }
